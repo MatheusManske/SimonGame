@@ -6,7 +6,7 @@ O Simon Game feito aqui foi criado com JavaScript (JS), Cascading Style Sheets (
 
 ## Demonstração
 
-[Inserir um link para a demonstração do seu jogo aqui, se aplicável.]
+https://matheusmanske.github.io/SimonGame/
 
 ## Tecnologias Utilizadas
 
