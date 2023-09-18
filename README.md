@@ -2,7 +2,7 @@
 
 Um jogo simples para testar sua memória!
 
-O Simon Game feito aqui foi criado com JavaScript (JS), Cascading Style Sheets (CSS) e HyperText Markup Language (HTML). Para facilitar o desenvolvimento, utilizei a biblioteca jQuery.
+Pressione A, isso fará com que uma sequência aleatória de cores comece a ser sinalizada. Será necessário decorar as próximas cores para que o padrão seja reproduzido pelo o jogador
 
 ## Demonstração
 
