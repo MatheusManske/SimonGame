@@ -1,7 +1,7 @@
 # SimonGame
 
 Um jogo simples para testar sua memória!
-
+.
 Pressione A, isso fará com que uma sequência aleatória de cores comece a ser sinalizada. Será necessário decorar as próximas cores para que o padrão seja reproduzido pelo o jogador
 
 ## Demonstração
