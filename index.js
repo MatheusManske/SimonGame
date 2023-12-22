@@ -85,6 +85,7 @@ function verificarResposta(level) {
         setTimeout(function () {
             $("body").css("background", "#011F3F");
         }, 100);
+        $(".btn-start").show();
     }
 }
 
@@ -98,6 +99,11 @@ $(".btn").click(function () {
 
 });
 
+
+$(".btn-start").click(function () {
+    $(this).hide();
+    jogar();
+});
 
 $(document).ready(function () {
     $(document).keydown(function (event) {
